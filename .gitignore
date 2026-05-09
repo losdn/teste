@@ -1,0 +1,5 @@
+dados.env
+.env
+.venv/
+__pycache__/
+log.txt

@@ -1,0 +1,37 @@
+Cód. Produto (SKU);Descrição;Fornecedor;Categoria;Peso (kg);Volume (m³);Valor Unitário;Class. ABC Item
+AC-12977;Monitor Acer 23,8;Acer;Monitor;1,2;0,125;1.679,00;B
+AC-12978;Monitor Acer LED 19.5;Acer;Monitor;1,08;0,08;871;C
+AC-12979;Monitor Acer 21,5;Acer;Monitor;0,82;0,099;1.196,00;A
+DE-12980;Monitor Dell 23.8” UltraSharp Prata;Dell;Monitor;0,91;0,11;1.793,00;C
+DE-12981;Monitor Dell Super Gamer 27”;Dell;Monitor;1,5;0,325;3.044,00;C
+DE-12982;Monitor Dell 27” Preto;Dell;Monitor;1,98;0,34;1.987,00;C
+SA-12983;Monitor Samsung 24” Full HD;Samsung;Monitor;1,1;0,22;1.048,00;C
+SA-12984;Monitor UHD Samsung 32” 4K;Samsung;Monitor;2,5;0,45;2.112,00;A
+AC-12949;Notebook Acer Aspire 1;Acer;Notebook;2,5;0,06;2.790,00;A
+AC-12950;Notebook Acer Aspire 3;Acer;Notebook;2,12;0,065;3.161,00;B
+AC-12951;Notebook Acer Aspire 5;Acer;Notebook;2,05;0,067;3.950,00;B
+AC-12952;Notebook Gamer Acer Nitro 5;Acer;Notebook;2,48;0,04;4.925,00;B
+DE-12953;Notebook Gamer Acer Predator Helios;Acer;Notebook;2,39;0,05;9.920,00;B
+AP-12965;Macbook Pro 13,3”;Apple;Notebook;1,52;0,07;13.715,00;C
+AP-12966;MacBook Air Prateado;Apple;Notebook;1,4;0,089;8.819,00;A
+DE-12954;Notebook Dell Inspiron 3000;Dell;Notebook;1,185;0,055;3.068,00;C
+DE-12955;Notebook Dell Inspiron i500;Dell;Notebook;1,445;0,049;4.585,00;C
+DE-12956;Notebook 2 em 1 Dell Inspiron 5406;Dell;Notebook;1,156;0,051;3.998,00;B
+DE-12957;Inspiron 15;Dell;Notebook;1,43;0,056;2.559,00;A
+DE-12958;Dell G8;Dell;Notebook;1,69;0,04;5.500,00;C
+LE-12959;Notebook Lenovo Ideapad 3;Lenovo;Notebook;2,05;0,052;2.696,00;C
+LE-12960;Notebook Lenovo Ultrafino IdeaPad;Lenovo;Notebook;1,6;0,044;3.844,00;B
+SA-12961;Samsung Dual Core;Samsung;Notebook;2,1;0,057;1.500,00;A
+SA-12962;Notebook Samsung Book;Samsung;Notebook;1,89;0,055;2.789,00;A
+AC-12974;Teclado Para Acer Aspire 3;Acer;Acessórios;0,854;0,046;184;A
+AC-12975;Kit Para Notebook Acer Aspire;Acer;Acessórios;1,2;0,097;210;A
+AC-12976;Teclado Gamer Acer Nitro LED;Acer;Acessórios;0,9;0,105;257;B
+DE-12967;Mouse Wireless Dell WM126 Preto;Dell;Acessórios;0,43;0,058;96;C
+DE-12968;Capa para Notebook Dell Essential;Dell;Acessórios;0,59;0,215;105;C
+DE-12969;Kit Teclado e Mouse sem fio Dell Pro;Dell;Acessórios;1,05;0,099;230;C
+DE-12970;Mochila para Notebook Dell Essential;Dell;Acessórios;1,45;0,25;154;C
+DE-12971;Teclado Multimídia Dell KB216;Dell;Acessórios;0,88;0,098;99;C
+DE-12972;Teclado Mecânico Gamer Alienware;Dell;Acessórios;0,95;0,087;969;C
+DE-12973;Mouse Laser com fio MS3220 Dell;Dell;Acessórios;0,54;0,066;134;C
+AP-12964;iPad 32GB Wifi;Apple;Tablet;0,98;0,025;750;B
+SA-12963;Tablet M10 Android;Samsung;Tablet;1,01;0,037;2.000,00;A
